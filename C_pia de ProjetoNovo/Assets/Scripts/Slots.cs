@@ -50,7 +50,7 @@ public class Slots : MonoBehaviour, IDropHandler {
 							}
 						}
 						Instantiate (b10, transform);
-						Instantiate (b1, DragHandeler.startParent);
+						Instantiate(b1, DragHandeler.startParent);
 					}
 				}
 			}
